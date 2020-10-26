@@ -1,0 +1,6 @@
+este arquivo sera usado para compartilhar o passo a passo que usamos para fazer o trabalho.
+
+1 -> criamos o App                  -> npx create-react-app nome-do-projeto
+2 -> instalamos as dependencias do redux -> npm i -D redux react-redux
+3 -> criamos as pastas store e reducers.
+4 -> subindo repositorio com as alterações iniciais
